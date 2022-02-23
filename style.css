@@ -1,0 +1,49 @@
+body{
+    font-family: 'sans-serif';
+    background:#fff3db;
+    margin-right: 71.5%;
+}
+
+h2{
+    color:#f02425;
+}
+
+h1{
+    color:white
+}
+
+h1{
+    background: #f02425;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.soustitre{
+    text-align: center;
+}
+
+.s-soustitre{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+strong{
+    color: #f02425;
+}
+
+.red{
+    color: #f02425;
+}
+
+.fit-picture {
+    width: 600px;
+}
+.astuce{
+    font-style: italic;
+    color: grey;
+    background:#ffcf6e;
+    font-size: smaller;
+    text-align: center;
+}
